@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergePDF", "MergePDF\MergePDF.csproj", "{AFD34827-CCF9-418A-ADE4-68E933593C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergePDF_WF", "MergePDF_WF\MergePDF_WF.csproj", "{C68C33AE-640A-4F0A-A815-74D19127FFEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD34827-CCF9-418A-ADE4-68E933593C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD34827-CCF9-418A-ADE4-68E933593C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD34827-CCF9-418A-ADE4-68E933593C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD34827-CCF9-418A-ADE4-68E933593C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68C33AE-640A-4F0A-A815-74D19127FFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68C33AE-640A-4F0A-A815-74D19127FFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68C33AE-640A-4F0A-A815-74D19127FFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68C33AE-640A-4F0A-A815-74D19127FFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E696879-C214-438D-B47B-B0FAB9B6466D}
+	EndGlobalSection
+EndGlobal
