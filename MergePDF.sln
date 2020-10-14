@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergePDF", "MergePDF\MergeP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergePDF_WF", "MergePDF_WF\MergePDF_WF.csproj", "{C68C33AE-640A-4F0A-A815-74D19127FFEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfTools", "PdfTools\PdfTools.csproj", "{E783A0A0-E8B8-4136-91B5-F0FFA9B92135}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C68C33AE-640A-4F0A-A815-74D19127FFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C68C33AE-640A-4F0A-A815-74D19127FFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C68C33AE-640A-4F0A-A815-74D19127FFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E783A0A0-E8B8-4136-91B5-F0FFA9B92135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E783A0A0-E8B8-4136-91B5-F0FFA9B92135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E783A0A0-E8B8-4136-91B5-F0FFA9B92135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E783A0A0-E8B8-4136-91B5-F0FFA9B92135}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

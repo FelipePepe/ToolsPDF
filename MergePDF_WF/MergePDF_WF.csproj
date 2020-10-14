@@ -121,5 +121,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PdfTools\PdfTools.csproj">
+      <Project>{e783a0a0-e8b8-4136-91b5-f0ffa9b92135}</Project>
+      <Name>PdfTools</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
